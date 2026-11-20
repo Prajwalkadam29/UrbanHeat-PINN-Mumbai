@@ -122,7 +122,7 @@ Evaluated across **4,597 real satellite pixels** spanning temperatures from **26
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/UrbanHeat-PINN-Mumbai.git
+git clone https://github.com/Prajwalkadam29/UrbanHeat-PINN-Mumbai.git
 cd UrbanHeat-PINN-Mumbai
 
 # 2. Create Python 3.11 virtual environment
@@ -290,8 +290,8 @@ npm run dev
 
 ## 👥 Academic Credits & Acknowledgements
 
-* **Project:** B.Tech CSE (AIML) Capstone Project (FF-180 Group 16)
-* **Team Members:** Prajwal Kadam, Atharva Kangralkar
+* **Project:** B.Tech CSE (AIML) Major Project (Group 16)
+* **Team Members:** Atharva Kangralkar, Prajwal Kadam, Arpit Pattiwar
 * **Faculty Guide:** Mrs. Grishma Bobhate
 * **Institution:** Department of Computer Science & Engineering (AI & ML)
 
@@ -299,4 +299,4 @@ npm run dev
 
 ## 📜 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
